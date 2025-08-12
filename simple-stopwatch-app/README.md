@@ -54,6 +54,6 @@ Open index.html in your browser directly, or serve it locally using a simple web
 
 ## Credits
 
-This project was inspired by a stopwatch example featured on [🔗 100 JS Projects](https://www.youtube.com/watch?v=iILFBGm_I9M)
+This project was inspired by a stopwatch example featured on [🔗 100 JS Projects](https://www.100jsprojects.com/project/stopwatch)
 
 While the core logic was based on the original concept, the final UI, keyboard controls, and button behavior were custom-developed and refined during my learning process.
